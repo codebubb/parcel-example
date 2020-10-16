@@ -1,0 +1,18 @@
+{
+  "name": "parcel-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel serve src/index.html",
+    "build": "parcel build --no-source-maps src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "sass": "^1.27.0",
+    "typescript": "^4.0.3"
+  }
+}
